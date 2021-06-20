@@ -1,0 +1,38 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: blueviolet;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+button{
+    padding: 20px;
+    width: 100px;
+    height: 50px;
+
+}
+
+#air{
+    background-color:gold;
+}
+
+#door{
+    background-color: greenyellow;
+}
+
+#explosion{
+    background-color: hotpink;
+}
+
+#air:hover{
+    background-color: lightcyan;
+}
+
+#door:hover{
+    background-color: lightcyan;
+}
+
+#explosion:hover{
+    background-color: lightcyan;
+}
